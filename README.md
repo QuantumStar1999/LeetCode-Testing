@@ -1,66 +1,50 @@
-## 🚨MAKE SURE TO KEEP YOUR EXTENSION UP TO DATE, WITH A ⭐️ ON THIS REPO🚨
-## 👨‍🔧Help me maintenance this extension with a [☕ coffee](https://github.com/sponsors/31b4)
+# Project Deprecated - Check out Alternative projects section for similar projects
+
+This repository is **no longer maintained**. 
+<br />
+<div align="center">
+  <a href="https://github.com/Edwardsoen/Leetcode-Premium-Unlocker">
+    <img src="https://github.com/Edwardsoen/Leetcode-Premium-Unlocker/blob/master/assets/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Leetcode premium unlocker</h3>
+     <a href = "https://chrome.google.com/webstore/detail/leetcode-premium-unlocker/gnpcbhmchfdadabkcmooljbhgdemgiof"> <img src = "https://github.com/Edwardsoen/Leetcode-Premium-Unlocker/blob/master/screenshots/chrome-web-store.png?raw=true" alt = "Chrome web store" width = 300></a>
+<a href = "https://addons.mozilla.org/en-US/firefox/addon/leetcode-premium-unlocker/"> <img src = "https://github.com/Edwardsoen/Leetcode-Premium-Unlocker/blob/master/screenshots/firefox-add-ons.png?raw=true" alt = "Firefox web store" width = 300></a>
+      
+  <p align="center">
+    ·
+    <a href="https://github.com/Edwardsoen/Leetcode-Premium-Unlocker/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Edwardsoen/Leetcode-Premium-Unlocker/issues">Request Feature</a>
+
+  </p>
+</div>
 
 
-# Leetcode Premium Bypass
 
-Unlock Leetcode's premium features without a subscription using the Leetcode Premium Bypass Chrome extension.
+## Leetcode Premium Unlocker 
+Unlock some leetcode premium features without subscription/login <br>
 
-- Credits: 
-    - Original creator of the extension: [@Edwardsoen](https://github.com/Edwardsoen)
-    - A helpful contributor: [@Gourav-21](https://github.com/Gourav-21)
-## Video Tutorial
-Watch the installation guide on [YouTube](https://www.youtube.com/watch?v=tARc8QI5AnE).
+## Alternative projects/ Active Forks
+[Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) by [@31b4](https://github.com/31b4)
 
-## Known Issues with solutions
-- Editorial now working on dynamic UI: https://github.com/31b4/Leetcode-Premium-Bypass/issues/14
-- Failed to load extension: https://github.com/31b4/Leetcode-Premium-Bypass/issues/44
+## Features 
+<li>Display problem frequency</li>
+<li>Unlock company problems</li>
+<li>Sort company problem by id, name, difficulty, acceptance and frequency</li>
+<li>Unlock Top company problems</li>
+<li>View premium problems</li>
+<li>View company in problem page</li>
 
-## Table of Contents
-- [Installation](#installation)
-    - [Step 1: Download and Unzip](#step-1-download-and-unzip)
-    - [Step 2: Enable Developer Mode](#step-2-enable-developer-mode)
-    - [Step 3: Load the Extension](#step-3-load-the-extension)
-- [Usage](#usage)
-    - [Step 4: Test the Extension](#step-4-test-the-extension)
-- [Troubleshooting](#troubleshooting)
+## Screenshots 
 
-## Installation
+<img src="https://github.com/Edwardsoen/Leetcode-Premium-Unlocker/blob/master/screenshots/Capure.PNG" width="800">
+<img src="https://github.com/Edwardsoen/Leetcode-Premium-Unlocker/blob/master/screenshots/Capure2.PNG" width="800">
+<img src="https://github.com/Edwardsoen/Leetcode-Premium-Unlocker/blob/master/screenshots/Capure3.PNG" width="800">
 
-### Step 1: Download and Unzip
+## Installation 
+<h4> Firefox: <a href = "https://addons.mozilla.org/en-US/firefox/addon/leetcode-premium-unlocker/">Add-ons store </a></h4> 
+<h4> Chrome: <a href = "https://chrome.google.com/webstore/detail/leetcode-premium-unlocker/gnpcbhmchfdadabkcmooljbhgdemgiof" >Chrome web store</a> 
+<h4> Other chromium browser: Download the latest release in 'Release' tab and load it to your browser 
+ 
 
-1. Download the latest release [here](https://github.com/31b4/Leetcode-Premium-Bypass/releases/latest).
-2. Unzip the downloaded file.
-
-### Step 2: Enable Developer Mode
-
-1. Open your Chrome browser.
-2. Navigate to 'chrome://extensions/' or go to 'Settings' -> 'Extensions' on the left sidebar.
-3. Turn on Developer Mode using the toggle switch.
-
-![Developer Mode](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/951ffb80-fa25-43ad-a211-d0bdf250606f)
-
-### Step 3: Load the Extension
-
-1. Click on 'Load unpacked.'
-
-![Load Unpacked](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/3732c9af-b928-46d2-89a0-e0be17c46169)
-
-2. Select the unzipped folder from Step 1.
-
-![Select Folder](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/d55e46a0-510e-4090-9844-321a07e99154)
-
-## Usage
-
-### Step 4: Test the Extension
-
-1. Go to [Leetcode](https://leetcode.com/problemset/all/).
-2. Refresh the page.
-3. If you see green Frequency bars, it's working.
-4. Click on companies to see the most common questions.
-5. Find a premium question, and refresh the page if its title is not green.
-6. If it's green, click on it and enjoy :D
-
-![Extension in Action](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/e4d41e19-af43-4c3c-9476-256a5ab7e159)
-### Troubleshooting
-**If it's not working, feel free to write on [Issues](https://github.com/31b4/Leetcode-Premium-Bypass/issues); I'm here to help.**

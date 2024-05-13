@@ -1,7 +1,7 @@
 {
-  "name": "leetcodepremiumbypass",
-  "version": "1.1.2",
-  "description": "<h1>Only aviable locally</h1>",
+  "name": "LeetcodePremiumUnlocker",
+  "version": "0.2.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests/* --require @babel/register --recursive --timeout 300000",
@@ -19,7 +19,7 @@
     "@babel/register": "^7.21.0",
     "mocha": "^10.2.0",
     "selenium-webdriver": "^4.10.0",
-    "webpack": "^5.89.0",
+    "webpack": "^5.88.1",
     "webpack-cli": "^5.1.4"
   }
 }
